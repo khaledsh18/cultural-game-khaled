@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Cultural words game</string>
+    <string name="cultural_words">Cultural words</string>
+    <string name="ask_friend">Ask friend</string>
+    <string name="share">share</string>
+    <string name="add_title">Add title</string>
+    <string name="right_answer_is">The correct answer is</string>
+    <string name="back">Return</string>
+    <string name="permission_title">Explain</string>
+    <string name="permission_explanation">App need to write external storage permission to share</string>
+    <string name="choose_lang">Choose language</string>
+
+    <string-array name="langs">
+        <item>العربية</item>
+        <item>English</item>
+    </string-array>
+
+    <string-array name="answers">
+        <item>Egal</item>
+        <item>Scalp</item>
+        <item>Sado</item>
+        <item>Henna</item>
+        <item>Dalla</item>
+        <item>moccasin</item>
+        <item>Dagger</item>
+        <item>The Tiger</item>
+        <item>Al-Qandeel / Al-Osraj</item>
+        <item>The Lantern</item>
+        <item>Fez</item>
+        <item>Turban</item>
+        <item>Dishdasha</item>
+    </string-array>
+
+    <string-array name="answer_description">
+        <item> To be placed over the station / ghutra to install it </item>
+        <item> Lined with fleece, worn in winter for roses from the cold </item>
+        <item> A type of traditional Bedouin weaving </item>
+        <item> It is used to dye the hair and beard, and it is also used to beautify the hands for women </item>
+        <item>The vessel used for serving coffee among the Arabs </item>
+        <item> Made of leather, worn on the feet. It was famous in the old days of the Arabs </item>
+        <item>Waist Small White Weapon </item>
+        <item>small pillow to lean on </item>
+        <item> The name of the tool used for lighting in the past </item>
+        <item>Tools used for lighting and decoration </item>
+        <item> The red hat was popular in the Levant, Egypt and Morocco </item>
+        <item>ball cap </item>
+        <item>Arabian dress that is widely worn in the Gulf countries </item>
+    </string-array>
+</resources>

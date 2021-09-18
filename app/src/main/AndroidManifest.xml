@@ -2,6 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.khaledshalabi.culturalwordsgame">
 
+    <uses-permission-sdk-23 android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -9,6 +12,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.CulturalWordsGame">
+        <activity
+            android:name=".AnswerActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ShareActivity"
+            android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

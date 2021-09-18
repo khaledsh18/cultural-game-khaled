@@ -1,3 +1,49 @@
 <resources>
     <string name="app_name">Cultural words game</string>
+    <string name="cultural_words">كلمات تراثية</string>
+    <string name="ask_friend">اسأل صديق</string>
+    <string name="share">شارك</string>
+    <string name="add_title">اضف عنوان</string>
+    <string name="right_answer_is">الإجابة الصحيحة هي</string>
+    <string name="back">العودة</string>
+    <string name="permission_title">توضيح</string>
+    <string name="permission_explanation">يحتاج التطبيق للحصول على صلاحية الكتابة على وحدة التخزين الخارجية لتخزين الصورة تمهيدا لاتاحة مشاركتها من خلال التطبيقات الأخرى</string>
+    <string name="choose_lang">اختر لغة</string>
+
+    <string-array name="langs">
+        <item>العربية</item>
+        <item>English</item>
+    </string-array>
+
+    <string-array name="answers">
+        <item>العقال</item>
+        <item>الفروة</item>
+        <item>السدو</item>
+        <item>الحناء</item>
+        <item>الدلة</item>
+        <item>الخف</item>
+        <item>الخنجر</item>
+        <item>النمرقة</item>
+        <item>القنديل / السراج</item>
+        <item>الفانوس</item>
+        <item>الطربوش</item>
+        <item>العمامة</item>
+        <item>الدشداشة</item>
+    </string-array>
+
+    <string-array name="answer_description">
+        <item>يوضع فوق الحطّة\الغترة لتثبيتها</item>
+        <item>مبطنة بالصوف، تلبس في الشتاء للوقاية من البرد</item>
+        <item>أحد أنواع النسيج البدوي التقليدي</item>
+        <item>تستخدم في صبغ الشعر واللحية، كما تستخدم أيضاً في تجميل الأيدي بالنسبة للنساء</item>
+        <item>الوعاء المستخدم في تقديم القهوة عند العرب</item>
+        <item>مصنوع من الجلد، يُلبس في القدم، اشتُهر قديماً عند العرب</item>
+        <item>سلاح أبيض صغير يوضع على الخصر</item>
+        <item>وسادة صغيرة يُتكأ عليها</item>
+        <item>اسم الاداة التي كانت تُستخدم للإضاءة قديما</item>
+        <item>أداة تُستخدم للإضاءة والزينة</item>
+        <item>قبعة حمراء اشتهرت في بلاد الشام ومصر والمغرب</item>
+        <item>غطاء يُكوّر فوق الرأس</item>
+        <item>ثوب عربي يُلبس بكثرة في دول الخليج</item>
+    </string-array>
 </resources>
